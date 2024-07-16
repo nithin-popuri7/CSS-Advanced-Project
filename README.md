@@ -38,12 +38,11 @@ To create a simplified clone of Dribble Landing Page
         </section>
         <section class="gallery-container">
             <div class="gallery">
-                <div class="gallery-item"><img src="img1.png" alt="Image 1"></div>
-                <div class="gallery-item"><img src="img2.png" alt="Image 2"></div>
-                <div class="gallery-item"><img src="img3.png" alt="Image 3"></div>
-                <div class="gallery-item"><img src="img4.png" alt="Image 4"></div>
-                <div class="gallery-item"><img src="img5.png" alt="Image 5"></div>
-                <div class="gallery-item"><img src="img6.png" alt="Image 6"></div>
+                <div class="gallery-item"><img src="d3.1.jpeg" alt="Image 1"></div>
+                <div class="gallery-item"><img src="d3.2.jpeg" alt="Image 2"></div>
+                <div class="gallery-item"><img src="d3.3.jpeg" alt="Image 2"></div>
+                <div class="gallery-item"><img src="d3.4.jpeg" alt="Image 2"></div>
+                <div class="gallery-item"><img src="d3.5.jpeg" alt="Image 2"></div>
             </div>
         </section>
     </main>
