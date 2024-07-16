@@ -252,7 +252,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 ```
 ### Output:
-<img width="954" alt="d3 op1" src="https://github.com/userattachments/assets/7c934375-5d45-4c8d-9751-2d41d3191e24">
+<img width="954" alt="d3 op1" src="https://github.com/user-attachments/assets/d80adae9-39ab-4586-aa06-c5b977168bfe">
 
 <img width="935" alt="d3op2" src="https://github.com/user-attachments/assets/c65988cd-2033-421d-9d23-fa1ba7a53761">
 
